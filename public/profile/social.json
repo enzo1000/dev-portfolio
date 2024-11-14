@@ -1,16 +1,16 @@
 {
     "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
-        }
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/in/enzo-martinez/"
+      },
+      {
+        "network": "github",
+        "href": "https://github.com/enzo1000"
+      },
+      {
+          "network" : "email",
+          "href": "enzo.martinezpro30@gmail.com"
+      }
     ]
 }
