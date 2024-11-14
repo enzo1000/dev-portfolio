@@ -59,6 +59,14 @@
         {
           "icon": "images/skills/git.png",
           "title": "Git"
+        },
+        {
+          "icon": "images/skills/vsLogo.png",
+          "title": "Visual Studio"
+        },
+        {
+          "icon": "images/skills/intelLogo.png",
+          "title": "IntelliJ"
         }
       ]
     }
