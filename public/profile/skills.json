@@ -23,7 +23,7 @@
         {
           "icon": "images/skills/mysql.png",
           "title": "MySQL"
-        }
+        },
         {
           "icon": "cLogo",
           "title": "C, C#, C++"
@@ -32,20 +32,8 @@
     },
 
     {
-      "title": "Frameworks & Technologies",
+      "title": "Game Engine & Technologies",
       "items": [
-        {
-          "icon": "images/skills/android_new.png",
-          "title": "Android"
-        },
-        {
-          "icon": "images/skills/react.png",
-          "title": "React"
-        },
-        {
-          "icon": "images/skills/nodejs.png",
-          "title": "Nodejs"
-        }
       ]
     },
 
@@ -53,16 +41,8 @@
       "title": "Tools & Platforms",
       "items": [
         {
-          "icon": "images/skills/android-studio.png",
-          "title": "Android Studio"
-        },
-        {
           "icon": "images/skills/git.png",
           "title": "Git"
-        },
-        {
-          "icon": "images/skills/docker.png",
-          "title": "Docker"
         }
       ]
     }
