@@ -34,6 +34,22 @@
     {
       "title": "Game Engine & Technologies",
       "items": [
+        {
+          "icon": "images/skills/ueLogo.png",
+          "title": "Unreal Engine"
+        },
+        {
+          "icon": "images/skills/unityLogo.svg",
+          "title": "Unity"
+        },
+        {
+          "icon": "images/skills/godotLogo.png",
+          "title": "Godot"
+        },
+        {
+          "icon": "images/skills/openGLLogo.png",
+          "title": "OpenGL"
+        }
       ]
     },
 
