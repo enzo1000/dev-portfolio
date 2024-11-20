@@ -10,9 +10,9 @@
       "title": "Sep 2022 - Aug 2023",
       "cardTitle": "Bachelor Degree in IT",
       "cardSubtitle": "Université de Montpellier",
-      "icon": {
-        "src": "images/education/lorem-ipsum.png"
-      }
+      //"icon": {
+      //  "src": "images/education/lorem-ipsum.png"
+      //}
     },
     {
       "title": "Sep 2021 - Aug 2022",

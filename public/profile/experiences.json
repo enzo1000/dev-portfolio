@@ -1,33 +1,50 @@
 {
-    "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Game Dev Party 22th Edition",
+      "subtitle": "NECC - Vaulx-en-Velin",
+      "workType": "Gameplay Programming",
+      "workDescription": [
+        "Worked on the enemy IA and Level design of the game"
+      ],
+      "dateText": "15/11/2024 – 17/11/2024"
+    },
+    {
+      "title": "Student-entrepreneur",
+      "subtitle": "Game Programming",
+      "workType": "Full-time",
+      "workDescription": [
+        "Designing a game from scratch heavily assisted by AI"
+      ],
+      "dateText": "04/2024 – 08/2024"
+    },
+    {
+      "title": "Software Engineer",
+      "subtitle": "CHU - Montpellier",
+      "workType": "Internship",
+      "workDescription": [
+        "Worked on the liaison between a mobile app and an AI wich were supposed to detect COVID using cough sample"
+      ],
+      "dateText": "06/2022 – 08/2022"
+    },
+    {
+      "title": "Code Game Jam 6th Edition",
+      "subtitle": "Montpellier University",
+      "workType": "Designer",
+      "workDescription": [
+        "Worked on all the 2D assets of the game during the lenght of the Jam",
+        "The theme of the Game Jam were 'Merveilles des profondeurs'"
+      ],
+      "dateText": "12/2021"
+    },
+    {
+      "title": "Software Enfineer",
+      "subtitle": "Calice",
+      "workType": "Internship",
+      "workDescription": [
+        "Designed an entire app of client loyalty"
+      ],
+      "dateText": "06/2021 - 08/2021"
+    }
+  ]
 }
