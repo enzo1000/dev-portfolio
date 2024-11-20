@@ -145,19 +145,9 @@
         "SDES",
         "Cryptography"
       ]
+    },
+    {
+      "_comment": "GameJam 1 et 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, Jeux Gacha Web, A* et Dijkstra, Tartariflette, Plavier"
     }
   ]
 }
-
-/*
-  Liste : 
-  Game Jam 1 et 2
-  Jeux Shogi
-  Doom Like OpenGl
-  Boid
-  Jeux gacha web
-  A* et Dijkstra
-  Tartariflette
-  Plavier
-
-*/

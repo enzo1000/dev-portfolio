@@ -19,7 +19,8 @@
     {
       "title": "Sep 2019 - Aug 2021",
       "cardTitle": "DUT in Computer Science & Electrical Engineering",
-      "cardSubtitle": "Université de Montpellier"
+      "cardSubtitle": "Université de Montpellier",
+      "_comment ":  "icon: { src: image/education/lorem-ipsum.png}"
     }
   ]
 }
