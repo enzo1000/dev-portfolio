@@ -1,9 +1,26 @@
 {
   "projects": [
     {
+      "image": "images/projects/pacman/pacman.png",
+      "title": "PacMan",
+      "bodyText": null,
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/PacManSDL2"
+        }
+      ],
+      "tags": [
+        "SDL",
+        "Solo",
+        "Game",
+        "2023"
+      ]
+    },
+    {
       "image": "images/projects/shogi3d/shogi3d.png",
       "title": "Shogi 3D",
-      "bodyText": "- Learn in depth mechanism of Unity by porting a known project In it.\n- Push back the limitation of Shogi2D by changing game engine.\n- Learnt a new language of programmation. (C#)",
+      "bodyText": "- Learn in depth mechanism of Unity by porting a known project In it.\n- Push back the limitation of Shogi2D by changing game engine.\n- Learnt a new language of programmation and It's concepts associated. (C#)",
       "links": [
         {
           "text": "GitHub",
