@@ -1,9 +1,26 @@
 {
   "projects": [
     {
+      "image": "images/projects/gachagame/gacha.png",
+      "title": "Gotta Catch Em All - Créanimals",
+      "bodyText": "- Setup of a website where you could draw an animal.\n- Seeing all your animals and theyre rariry in an inventory.\n- Place them In an garden and see them move.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/ProjetTutore"
+        }
+      ],
+      "tags": [
+        "Web",
+        "Database",
+        "Online Game",
+        "2022"
+      ]
+    },
+    {
       "image": "images/projects/gamejamone/cgj.png",
       "title": "Code Game Jam 2022",
-      "bodyText": "- Contemplative game were you go to the bottom of the ocean and discover it's biodiversity.\n- Gestion of the electricity needed by the submarin and It's oxygen with multiples elements (ray, algae ...).",
+      "bodyText": "- Contemplative game were you go to the bottom of the ocean and discover it's biodiversity.\n- Management of the electricity and the oxygen needed by the submarin with multiples elements (ray, algae ...).",
       "links": [
         {
           "text": "GitHub",
@@ -175,7 +192,7 @@
       ]
     },
     {
-      "_comment": "GameJam 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, Jeux Gacha Web, A* et Dijkstra, Tartariflette"
+      "_comment": "GameJam 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, A* et Dijkstra, Tartariflette"
     }
   ]
 }
