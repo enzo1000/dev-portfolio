@@ -1,9 +1,26 @@
 {
   "projects": [
     {
+      "image": "images/projects/ping/pong.png",
+      "title": "MultiPong",
+      "bodyText": "- Pong Game made using SDL.\n- Pushed the understanding of SDL further.\n- Learnt a more formal and clean way to code a C++ Project",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/MultiPongGame"
+        }
+      ],
+      "tags": [
+        "SDL",
+        "Solo",
+        "Game",
+        "2023"
+      ]
+    },
+    {
       "image": "images/projects/pacman/pacman.png",
       "title": "PacMan",
-      "bodyText": null,
+      "bodyText": "- Small 24h project to learn new things about game development and put me under pressure.\n- Learnt the bases of ECS architecture.\n- First Utilisation of SDL as graphical library.",
       "links": [
         {
           "text": "GitHub",
