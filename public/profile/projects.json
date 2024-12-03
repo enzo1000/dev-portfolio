@@ -3,7 +3,7 @@
     {
       "image": "images/projects/plavier/plavier-thumbnail.png",
       "title": "Plavier",
-      "bodyText": "Goal : Help children with writting and association (letter -> shape) difficulty.\nGameplay :\n- Letters spawn on the top of the screen and moves in the direction of a virtual keyboard.\n- When the letter overlap with the corresponding key, the player need to push the same key to validate the action.",
+      "bodyText": "Goal : Help children with writting and association (letter -> shape) difficulty. \n Gameplay :\n- Letters spawn on the top of the screen and moves in the direction of a virtual keyboard.\n- When the letter overlap with the corresponding key, the player need to push the same key to validate the action.",
       "tags": [
         "Game",
         "Educational",
