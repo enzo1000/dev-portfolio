@@ -1,13 +1,31 @@
 {
   "projects": [
     {
+      "image": "images/projects/gamejamone/cgj.png",
+      "title": "Code Game Jam 2022",
+      "bodyText": "- Contemplative game were you go to the bottom of the ocean and discover it's biodiversity.\n- Gestion of the electricity needed by the submarin and It's oxygen with multiples elements (ray, algae ...).",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Red-PandaGames"
+        }
+      ],
+      "tags": [
+        "Game Jam",
+        "Theme : Merveilles des profondeurs",
+        "Unity",
+        "5 students group"
+      ]
+    },
+    {
       "image": "images/projects/plavier/plavier-thumbnail.png",
       "title": "Plavier",
       "bodyText": "- Help children with writting and association (letter -> shape) difficulty.\n- Letters spawns at the top of the screen and moves in the direction of a virtual key of a keyboard.\n- When the letter overlap with the corresponding key, the player need to push the same key to validate the action.",
       "tags": [
         "Game",
         "Educational",
-        "Construct 2"
+        "Construct 2",
+        "2021"
       ]
     },
     {
@@ -157,7 +175,7 @@
       ]
     },
     {
-      "_comment": "GameJam 1 et 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, Jeux Gacha Web, A* et Dijkstra, Tartariflette, Plavier"
+      "_comment": "GameJam 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, Jeux Gacha Web, A* et Dijkstra, Tartariflette"
     }
   ]
 }
