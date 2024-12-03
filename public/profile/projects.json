@@ -1,9 +1,27 @@
 {
   "projects": [
     {
+      "image": "images/projects/shogi2d/shogi2d.png",
+      "title": "Shogi 2D",
+      "bodyText": "- Realisation of a boardgame In a new contexte of programmation.\n- First Solo project that gave me a lot of confidence for my futur works.\n- Developping Algorithms to move the pieces and detect the end of a game.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/Shogi"
+        }
+      ],
+      "tags": [
+        "Pygame",
+        "Python",
+        "Solo",
+        "Board Game",
+        "2022"
+      ]
+    },
+    {
       "image": "images/projects/gachagame/gacha.png",
       "title": "Gotta Catch Em All - Créanimals",
-      "bodyText": "- Setup of a website where you could draw an animal.\n- Seeing all your animals and theyre rariry in an inventory.\n- Place them In an garden and see them move.",
+      "bodyText": "- Setup of a website where you could pull animals.\n- Seeing all your animals and theyre rariry in an inventory.\n- Place them In an garden and see them move.",
       "links": [
         {
           "text": "GitHub",
@@ -192,7 +210,7 @@
       ]
     },
     {
-      "_comment": "GameJam 2, Jeux Shogi 2D et 3D, Doom like OpenGL, Boid, A* et Dijkstra, Tartariflette"
+      "_comment": "GameJam 2, Jeux Shogi 3D, Doom like OpenGL, Boid, A* et Dijkstra, Tartariflette"
     }
   ]
 }
