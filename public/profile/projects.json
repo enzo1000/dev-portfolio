@@ -1,6 +1,16 @@
 {
   "projects": [
     {
+      "image": "images/projects/plavier/plavier-thumbnail.png",
+      "title": "Plavier",
+      "bodyText": "Goal : Help children with writting and association (letter -> shape) difficulty.\nGameplay :\n- Letters spawn on the top of the screen and moves in the direction of a virtual keyboard.\n- When the letter overlap with the corresponding key, the player need to push the same key to validate the action.",
+      "tags": [
+        "Game",
+        "Educational",
+        "Construct 2"
+      ]
+    },
+    {
       "image": "images/projects/portfolio-poster.png",
       "title": "Dev Portfolio",
       "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
