@@ -1,6 +1,23 @@
 {
   "projects": [
     {
+      "image": "images/projects/shogi3d/shogi3d.png",
+      "title": "Shogi 3D",
+      "bodyText": "- Learn in depth mechanism of Unity by porting a known project In it.\n- Push back the limitation of Shogi2D by changing game engine.\n- Learnt a new language of programmation. (C#)",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/Shogi3D"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "Solo",
+        "Board Game",
+        "2022 - 2023"
+      ]
+    },
+    {
       "image": "images/projects/shogi2d/shogi2d.png",
       "title": "Shogi 2D",
       "bodyText": "- Realisation of a boardgame In a new contexte of programmation.\n- First Solo project that gave me a lot of confidence for my futur works.\n- Developping Algorithms to move the pieces and detect the end of a game.",
@@ -21,7 +38,7 @@
     {
       "image": "images/projects/gachagame/gacha.png",
       "title": "Gotta Catch Em All - Créanimals",
-      "bodyText": "- Setup of a website where you could pull animals.\n- Seeing all your animals and theyre rariry in an inventory.\n- Place them In an garden and see them move.",
+      "bodyText": "- Setup of a website where you could register yourself and pull animals.\n- Seeing all your animals and their rariry in an inventory.\n- Possibility to place them In an garden and see them move.",
       "links": [
         {
           "text": "GitHub",
@@ -210,7 +227,7 @@
       ]
     },
     {
-      "_comment": "GameJam 2, Jeux Shogi 3D, Doom like OpenGL, Boid, A* et Dijkstra, Tartariflette"
+      "_comment": "GameJam 2, Doom like OpenGL, Boid, A* et Dijkstra, Tartariflette"
     }
   ]
 }
