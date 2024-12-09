@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "image": "images/projects/tartariflette/tartariflette.png",
+      "title": "Tartar-iflette",
+      "bodyText": "- Procedural Rogue Like, Dungeon Crawler.\n- You play as a boy who need to survive In the mythologic tartar.\n- Usage of 3 algorithms to generate procedural levels.\n- Implementation of an \"rogue like\"upgrade mecanism",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/Tatar-iflette"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "Duo",
+        "Game",
+        "2024",
+        "Procedural"
+      ]
+    },
+    {
       "image": "images/projects/boid/boid.png",
       "title": "Boïd Algorithm",
       "bodyText": "- Small project showcasing differents behavior of Boïds depending on parameters\n- You drive a submarine between fishes (Boïds) so you can visualise and adjust their parameters.",
@@ -74,7 +92,8 @@
         "Duo",
         "Game",
         "2024",
-        "AI"
+        "AI",
+        "Procedural"
       ]
     },
     {
