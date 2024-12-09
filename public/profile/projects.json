@@ -1,9 +1,26 @@
 {
   "projects": [
     {
+      "image": "images/projects/pathfinding/dijkstra.png",
+      "title": "Dijkstra & A* Algorithm",
+      "bodytext":  "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/PathfindingAlgorithme"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "Solo",
+        "Algorithm",
+        "2024"
+      ]
+    },
+    {
       "image": "images/projects/echoes/projectechoes.png",
       "title": "Project Echoes",
-      "bodyText": "",
+      "bodyText": "- Procedural platformer game. (Mario Like)\n- The game goal is to adapt the procedural generation depending on player performance.\n- Project made with the Etudiant Entrepreneur title.",
       "links": [
         {
           "text": "GitHub",
@@ -18,7 +35,8 @@
         "Unity",
         "Duo",
         "Game",
-        "2024"
+        "2024",
+        "AI"
       ]
     },
     {
@@ -153,7 +171,7 @@
       ]
     },
     {
-      "_comment": "GameJam 2, Boid, A* et Dijkstra, Tartariflette"
+      "_comment": "GameJam 2, Boid, Tartariflette"
     }
   ]
 }
