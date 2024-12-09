@@ -1,9 +1,47 @@
 {
   "projects": [
     {
+      "image": "images/projects/boid/boid.png",
+      "title": "Boïd Algorithm",
+      "bodyText": "- Small project showcasing differents behavior of Boïds depending on parameters\n- You drive a submarine between fishes (Boïds) so you can visualise and adjust their parameters.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/Boid-3D"
+        }
+      ],
+      "tags": [
+        "Unity",
+        "Solo",
+        "Algorithm",
+        "2024"
+      ]
+    },
+    {
+      "image": "images/projects/gamejamtwo/neonbullet",
+      "title": "Game Dev Party - NECC Vaulx-en-Velin",
+      "bodyText": "- You have a gun and In it's barrel rouds.\n- Each round has a color corresponding in a enemy type\n- You need to shoot all your neon bullets on the corresponding enemies.\n- Beware of the abyssal bullet.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Bellaedris/GDPJ22"
+        },
+        {
+          "text": "itch.io",
+          "href": "https://othentv.itch.io/neon-bullet"
+        }
+      ],
+      "tags": [
+        "Game Jam",
+        "Theme : C'est quoi l'ennemie",
+        "Unity",
+        "5 students group"
+      ]
+    },
+    {
       "image": "images/projects/pathfinding/dijkstra.png",
       "title": "Dijkstra & A* Algorithm",
-      "bodyText":  "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
+      "bodyText": "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
       "links": [
         {
           "text": "GitHub",
