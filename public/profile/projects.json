@@ -3,7 +3,7 @@
     {
       "image": "images/projects/pathfinding/dijkstra.png",
       "title": "Dijkstra & A* Algorithm",
-      "bodytext":  "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
+      "bodyText":  "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
       "links": [
         {
           "text": "GitHub",
