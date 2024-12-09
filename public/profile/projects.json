@@ -18,7 +18,7 @@
       ]
     },
     {
-      "image": "images/projects/gamejamtwo/neonbullet",
+      "image": "images/projects/gamejamtwo/neonbullet.png",
       "title": "Game Dev Party - NECC Vaulx-en-Velin",
       "bodyText": "- You have a gun and In it's barrel rouds.\n- Each round has a color corresponding in a enemy type\n- You need to shoot all your neon bullets on the corresponding enemies.\n- Beware of the abyssal bullet.",
       "links": [
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "_comment": "GameJam 2, Boid, Tartariflette"
+      "_comment": " Tartariflette"
     }
   ]
 }
