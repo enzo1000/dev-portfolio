@@ -3,7 +3,7 @@
     {
       "image": "images/projects/tartariflette/tartariflette.png",
       "title": "Tartar-iflette",
-      "bodyText": "- Procedural Rogue Like, Dungeon Crawler.\n- You play as a boy who need to survive In the mythologic tartar.\n- Usage of 3 algorithms to generate procedural levels.\n- Implementation of an \"rogue like\"upgrade mecanism",
+      "bodyText": "- Procedural Rogue Like, Dungeon Crawler.\n- You play as a boy who need to survive In Tartarus.\n- Usage of 3 algorithms to generate procedural levels.\n- Implementation of a \"rogue like\" upgrade mecanism",
       "links": [
         {
           "text": "GitHub",
@@ -21,7 +21,7 @@
     {
       "image": "images/projects/boid/boid.png",
       "title": "Boïd Algorithm",
-      "bodyText": "- Small project showcasing differents behavior of Boïds depending on parameters\n- You drive a submarine between fishes (Boïds) so you can visualise and adjust their parameters.",
+      "bodyText": "- Small project demonstrating various Boïd behaviors based on adjustable parameters.\n- Control a submarine navigating among fish (Boïds), where you can visualize and modify their behaviors.",
       "links": [
         {
           "text": "GitHub",
@@ -38,7 +38,7 @@
     {
       "image": "images/projects/gamejamtwo/neonbullet.png",
       "title": "Game Dev Party - NECC Vaulx-en-Velin",
-      "bodyText": "- You have a gun and In it's barrel rouds.\n- Each round has a color corresponding in a enemy type\n- You need to shoot all your neon bullets on the corresponding enemies.\n- Beware of the abyssal bullet.",
+      "bodyText": "- You have a gun loaded with rounds, each color-coded to match a specific enemy type.\n- Your task : shoot all your neon bullets at their corresponding enemies.\n- But watch out for the abyssal bullet!",
       "links": [
         {
           "text": "GitHub",
@@ -53,13 +53,13 @@
         "Game Jam",
         "Theme : C'est quoi l'ennemie",
         "Unity",
-        "5 students group"
+        "5 student group"
       ]
     },
     {
       "image": "images/projects/pathfinding/dijkstra.png",
       "title": "Dijkstra & A* Algorithm",
-      "bodyText": "- Small project showcasing the limitation and the differences between Dijkstra & A*\n- You create a maze where the red cube evolve to find is way to the green seed",
+      "bodyText": "- Small project showcasing the limitation and the differences between Dijkstra & A*.\n- You design a maze in which a red cube will navigate to find its way to reach the green seed.",
       "links": [
         {
           "text": "GitHub",
@@ -76,7 +76,7 @@
     {
       "image": "images/projects/echoes/projectechoes.png",
       "title": "Project Echoes",
-      "bodyText": "- Procedural platformer game. (Mario Like)\n- The game goal is to adapt the procedural generation depending on player performance.\n- Project made with the Etudiant Entrepreneur title.",
+      "bodyText": "- Procedural platformer game. (Mario Like)\n- The game goal is to adapt the procedural generation on player performance.\n- Project made with the Etudiant Entrepreneur title.",
       "links": [
         {
           "text": "GitHub",
@@ -150,7 +150,7 @@
     {
       "image": "images/projects/shogi3d/shogi3d.png",
       "title": "Shogi 3D",
-      "bodyText": "- Learn in depth mechanism of Unity by porting a known project In it.\n- Push back the limitation of Shogi2D by changing game engine.\n- Learnt a new language of programmation and It's concepts associated. (C#)",
+      "bodyText": "- Learn in depth mechanism of Unity by porting a known project in it.\n- Push back the limitation of Shogi2D by changing game engine.\n- Learnt a new language of programmation and it's concepts associated. (C#)",
       "links": [
         {
           "text": "GitHub",
@@ -167,7 +167,7 @@
     {
       "image": "images/projects/shogi2d/shogi2d.png",
       "title": "Shogi 2D",
-      "bodyText": "- Realisation of a boardgame In a new contexte of programmation.\n- First Solo project that gave me a lot of confidence for my futur works.\n- Developping Algorithms to move the pieces and detect the end of a game.",
+      "bodyText": "- Realisation of a boardgame in a new contexte of programmation.\n- First Solo project that gave me a lot of confidence for my futur works.\n- Developping Algorithms to move the pieces and detect the end of a game.",
       "links": [
         {
           "text": "GitHub",
@@ -185,7 +185,7 @@
     {
       "image": "images/projects/gachagame/gacha.png",
       "title": "Gotta Catch Em All - Créanimals",
-      "bodyText": "- Setup of a website where you could register yourself and pull animals.\n- Seeing all your animals and their rariry in an inventory.\n- Possibility to place them In an garden and see them move.",
+      "bodyText": "- Setup of a website where you could register yourself and pull animals.\n- Seeing all your animals and their rariry in an inventory.\n- Possibility to place them in a garden and see them move.",
       "links": [
         {
           "text": "GitHub",
@@ -202,7 +202,7 @@
     {
       "image": "images/projects/gamejamone/cgj.png",
       "title": "Code Game Jam 2022",
-      "bodyText": "- Contemplative game were you go to the bottom of the ocean and discover it's biodiversity.\n- Management of the electricity and the oxygen needed by the submarin with multiples elements (ray, algae ...).",
+      "bodyText": "- Contemplative game where you go to the bottom of the ocean and discover it's biodiversity.\n- Management of the electricity and the oxygen needed by the submarin with multiple elements. (torpedo, algae ...)",
       "links": [
         {
           "text": "GitHub",
@@ -219,16 +219,13 @@
     {
       "image": "images/projects/plavier/plavier-thumbnail.png",
       "title": "Plavier",
-      "bodyText": "- Help children with writting and association (letter -> shape) difficulty.\n- Letters spawns at the top of the screen and moves in the direction of a virtual key of a keyboard.\n- When the letter overlap with the corresponding key, the player need to push the same key to validate the action.",
+      "bodyText": "- Help children with writing and association (letter -> shape) difficulty.\n- Letters spawn at the top of the screen and move in the direction of a virtual keyboard.\n- When the letter aligns with its corresponding key, the player must press that key to validate the action.",
       "tags": [
         "Game",
         "Educational",
         "Construct 2",
         "2021"
       ]
-    },
-    {
-      "_comment": " Tartariflette"
     }
   ]
 }
