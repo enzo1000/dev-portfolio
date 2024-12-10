@@ -38,7 +38,16 @@
       "dateText": "12/2021"
     },
     {
-      "title": "Software Enfineer",
+      "title": "Nuit de l'informatique'",
+      "subtitle": "Calice",
+      "workType": "Internship",
+      "workDescription": [
+        "Designed a Website to help the rescuers of the Dunkerquois."
+      ],
+      "dateText": "12/2021"
+    },
+    {
+      "title": "Software Engineer",
       "subtitle": "Calice",
       "workType": "Internship",
       "workDescription": [
