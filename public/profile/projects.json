@@ -60,6 +60,12 @@
       "image": "images/projects/raytracing/raytracing.png",
       "title": "Ray Tracing in C++",
       "bodyText": "- First implementation of a Ray Tracing Algorithm.\n- Implementation of other notions like BVH (Bounding Volume Hierarchy), rasterisation and Monte Carlos algorithm.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/enzo1000/RayTracing"
+        }
+      ],
       "tags": [
         "Algorithm",
         "Solo",
