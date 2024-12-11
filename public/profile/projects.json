@@ -51,9 +51,20 @@
       ],
       "tags": [
         "Game Jam",
-        "Theme : C'est quoi l'ennemie",
+        "Theme : C'est quoi l'ennemi",
         "Unity",
         "5 student group"
+      ]
+    },
+    {
+      "image": "images/projects/raytracing/raytracing.png",
+      "title": "Ray Tracing in C++",
+      "bodyText": "- First implementation of a Ray Tracing Algorithm.\n- Implementation of other notions like BVH (Bounding Volume Hierarchy), rasterisation and Monte Carlos algorithm.",
+      "tags": [
+        "Algorithm",
+        "Solo",
+        "2024",
+        "Ray Tracing"
       ]
     },
     {
