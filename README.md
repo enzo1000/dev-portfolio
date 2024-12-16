@@ -548,11 +548,11 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 ## Notable Portfolios made using this template
 
 - [Mayank Agarwal](https://mayankagarwal09.com)
+- [Martinez Enzo](https://dev-portfolio-enzo-martinezs-projects.vercel.app/)
 
 ## Authors
 
 - **Mayank Agarwal** - [https://github.com/mayankagarwal09](https://github.com/mayankagarwal09)
-- **Martinez Enzo**  - [https://dev-portfolio-enzo-martinezs-projects.vercel.app/](https://dev-portfolio-enzo-martinezs-projects.vercel.app/)
 
 ## Support
 
