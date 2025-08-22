@@ -1,10 +1,11 @@
 {
 	"projects" : [
 		{
+			"image": "images/projects/arkane/blade.jpg",
 			"title": "Blade",
 			"bodyText": "",
-			"links" : [ {} ],
-			"tags" : [ "Shipped", "Game", "Marvel", "Arkane Studio", "200+ team" ]
+			"links": [ { "text": "TBD" } ],
+			"tags": [ "Shipped", "Game", "Marvel", "Arkane Studio", "200+ team" ]
 		},
 		{
 			"image" : "images/projects/NPE/NPEImage.png",
