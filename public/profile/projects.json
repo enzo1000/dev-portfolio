@@ -20,6 +20,16 @@
 			"links" : [ { "text" : "itch.io", "href" : "https://gamagora.itch.io/eternal-wounds" } ],
 			"tags" : [ "Shipped", "Game", "Puzzle", "Unreal", "22 students group" ]
 		},
+				{
+			"image" : "images/projects/gamejamtwo/neonbullet.png",
+			"title" : "Game Dev Party - NECC Vaulx-en-Velin",
+			"bodyText" : "- You have a gun loaded with rounds, each color-coded to match a specific enemy type.\n- Your task : shoot all your neon bullets at their corresponding enemies.\n- But watch out for the abyssal bullet!",
+			"links" : [
+				{ "text" : "GitHub", "href" : "https://github.com/Bellaedris/GDPJ22" },
+				{ "text" : "itch.io", "href" : "https://othentv.itch.io/neon-bullet" }
+			],
+			"tags" : [ "Game Jam", "Theme : C'est quoi l'ennemi", "Unity", "5 students group" ]
+		},
 		{
 			"image" : "images/projects/onionj/onionImage.png",
 			"title" : "Onmyoji",
@@ -47,16 +57,6 @@
 			"bodyText" : "- Small project demonstrating various Boïd behaviors based on adjustable parameters.\n- Control a submarine navigating among fish (Boïds), where you can visualize and modify their behaviors.",
 			"links" : [ { "text" : "GitHub", "href" : "https://github.com/enzo1000/Boid-3D" } ],
 			"tags" : [ "Unity", "Solo", "Algorithm", "2024" ]
-		},
-		{
-			"image" : "images/projects/gamejamtwo/neonbullet.png",
-			"title" : "Game Dev Party - NECC Vaulx-en-Velin",
-			"bodyText" : "- You have a gun loaded with rounds, each color-coded to match a specific enemy type.\n- Your task : shoot all your neon bullets at their corresponding enemies.\n- But watch out for the abyssal bullet!",
-			"links" : [
-				{ "text" : "GitHub", "href" : "https://github.com/Bellaedris/GDPJ22" },
-				{ "text" : "itch.io", "href" : "https://othentv.itch.io/neon-bullet" }
-			],
-			"tags" : [ "Game Jam", "Theme : C'est quoi l'ennemi", "Unity", "5 students group" ]
 		},
 		{
 			"image" : "images/projects/raytracing/raytracing.png",
