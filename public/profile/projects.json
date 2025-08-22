@@ -8,9 +8,9 @@
 			"tags": [ "Shipped", "Game", "Marvel", "Arkane Studio", "200+ team" ]
 		},
 		{
-			"image" : "images/projects/NPE/NPEImage.png",
+			"image": "images/projects/NPE/NPEImage.png",
 			"title": "Not Paid Enough !",
-			"bodyText": "In a asymmetric multiplayer game. Play as 4 players, with 1 held prisoner by the government in Area 51 and forced to work for free as a janitor ! The 3 others will have to clean the office in a limited time, or else face punishment.",
+			"bodyText": "In a asymmetric multiplayer game. Play as 4 players, with 1 held prisoner by the government in Area 51 and forced to work for free as a janitor ! The 3 others will have to break into Area 51 to find and bring back home proof of alien existence",
 			"links": [ { "text": "itch.io", "href": "https://gamagora.itch.io/not-paid-enough" } ],
 			"tags": [ "Shipped", "Game", "Online", "Unity", "16 students group" ]
 		},
@@ -18,34 +18,26 @@
 			"image": "images/projects/EW/EWImage.png",
 			"title": "Eternal Wounds",
 			"bodyText": "Set in a surreal and strange hotel, you play as the Murin, a cursed clay puppet with the ability to disassemble and reassemble itself at will. Use these abilities to progress through a series of obstacles, meet strange people in dreamlike places, and escape the hotel !",
-			"links": [
-				{
-					"text": "itch.io",
-					"href": "https://gamagora.itch.io/eternal-wounds"
-				}
-			],
+			"links": [ { "text": "itch.io", "href": "https://gamagora.itch.io/eternal-wounds" } ],
 			"tags": [ "Shipped", "Game", "Puzzle", "Unreal", "22 students group" ]
 		},
 				{
 			"image" : "images/projects/gamejamtwo/neonbullet.png",
 			"title" : "Game Dev Party - NECC Vaulx-en-Velin",
 			"bodyText" : "- You have a gun loaded with rounds, each color-coded to match a specific enemy type.\n- Your task : shoot all your neon bullets at their corresponding enemies.\n- But watch out for the abyssal bullet!",
-			"links" : [
-				{ "text" : "GitHub", "href" : "https://github.com/Bellaedris/GDPJ22" },
-				{ "text" : "itch.io", "href" : "https://othentv.itch.io/neon-bullet" }
-			],
+			"links" : [ { "text" : "GitHub", "href" : "https://github.com/Bellaedris/GDPJ22" }, { "text" : "itch.io", "href" : "https://othentv.itch.io/neon-bullet" } ],
 			"tags" : [ "Game Jam", "Theme : C'est quoi l'ennemi", "Unity", "5 students group" ]
 		},
 		{
 			"image" : "images/projects/onionj/onionImage.png",
-			"title" : "Onmyoji",
+			"title" : "Onmyoji - Gamagora Game Jam",
 			"bodyText" : "Repel the forces of darkness in different locations that have been possessed by the devil. Use your chalk to chant the spell and survive as long as possible ",
 			"links" : [ { "text" : "itch.io", "href" : "https://lordan6.itch.io/onmyji" } ],
 			"tags" : [ "Game Jam", "Theme : If you don’t see it, it doesn’t exist", "Unity", "4 students group" ]
 		},
 		{
 			"image" : "images/projects/bubble/bubbleImage.png",
-			"title" : "Bubble Market",
+			"title" : "Bubble Market - Global Game Jam",
 			"bodyText" : "Become the greatest trader of the deep seas! Invest and speculate wisely to attract more and more shrimp to follow you.",
 			"links" : [ { "text" : "itch.io", "href" : "https://ameiswhattodo.itch.io/bubble-market" } ],
 			"tags" : [ "Game Jam", "Theme : Bubble", "Unity", "8 students group" ]
@@ -82,10 +74,7 @@
 			"image" : "images/projects/echoes/projectechoes.png",
 			"title" : "Project Echoes",
 			"bodyText" : "- Procedural platformer game. (Mario Like)\n- The game goal is to adapt the procedural generation on player performance.\n- Project made with the Etudiant Entrepreneur title.",
-			"links" : [
-				{ "text" : "GitHub", "href" : "https://github.com/enzo1000/SummerMarioBros" },
-				{ "text" : "itch.io", "href" : "https://ameiswhattodo.itch.io/project-echoes" }
-			],
+			"links" : [ { "text" : "GitHub", "href" : "https://github.com/enzo1000/SummerMarioBros" }, { "text" : "itch.io", "href" : "https://ameiswhattodo.itch.io/project-echoes" } ],
 			"tags" : [ "Unity", "Duo", "Game", "2024", "AI", "Procedural" ]
 		},
 		{
