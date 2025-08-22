@@ -15,11 +15,16 @@
 			"tags": [ "Shipped", "Game", "Online", "Unity", "16 students group" ]
 		},
 		{
-			"image" : "images/projects/EW/EWImage.png",
-			"title" : "Eternal Wounds",
-			"bodyText" : "Set in a surreal and strange hotel, you play as the Murin, a cursed clay puppet with the ability to disassemble and reassemble itself at will.",
-			"links" : [ { "text" : "itch.io", "href" : "https://gamagora.itch.io/eternal-wounds" } ],
-			"tags" : [ "Shipped", "Game", "Puzzle", "Unreal", "22 students group" ]
+			"image": "images/projects/EW/EWImage.png",
+			"title": "Eternal Wounds",
+			"bodyText": "Set in a surreal and strange hotel, you play as the Murin, a cursed clay puppet with the ability to disassemble and reassemble itself at will. Use these abilities to progress through a series of obstacles, meet strange people in dreamlike places, and escape the hotel !",
+			"links": [
+				{
+					"text": "itch.io",
+					"href": "https://gamagora.itch.io/eternal-wounds"
+				}
+			],
+			"tags": [ "Shipped", "Game", "Puzzle", "Unreal", "22 students group" ]
 		},
 				{
 			"image" : "images/projects/gamejamtwo/neonbullet.png",
