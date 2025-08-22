@@ -1,6 +1,15 @@
 {
   "experiences": [
     {
+      "title": "Intership at Arkane Studio - Lyon",
+      "subtitle": "Engine Programming",
+      "workType": "Blade",
+      "workDescription": [
+        "Worked on various aspec of the Void Engine 2.0 (accessibility, fx, UI ..."
+      ],
+      "dateText": " 15/05/2025 - TBD"
+    },
+    {
       "title": "Game Dev Party 22th Edition",
       "subtitle": "NECC - Vaulx-en-Velin",
       "workType": "Gameplay Programming",
